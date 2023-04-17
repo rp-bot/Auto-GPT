@@ -24,7 +24,6 @@ else:
 
 QUEUE_SEMAPHORE = Semaphore(
     1
-    # sdjkhfvkjsd
 )  # The amount of sounds to queue before blocking the main thread
 
 
